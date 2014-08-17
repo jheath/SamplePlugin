@@ -1,5 +1,5 @@
 
-package com.dinnerbone.bukkit.sample;
+package com.styletron.bukkit.sample;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -12,6 +12,7 @@ import org.bukkit.event.block.BlockPhysicsEvent;
 /**
  * Sample block listener
  * @author Dinnerbone
+ * @author root@styletron
  */
 public class SampleBlockListener implements Listener {
     @EventHandler

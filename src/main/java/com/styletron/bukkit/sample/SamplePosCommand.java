@@ -1,5 +1,5 @@
 
-package com.dinnerbone.bukkit.sample;
+package com.styletron.bukkit.sample;
 
 import org.bukkit.Location;
 import org.bukkit.command.Command;
@@ -10,6 +10,7 @@ import org.bukkit.entity.Player;
 /**
  * Handler for the /pos sample command.
  * @author SpaceManiac
+ * @author root@styletron
  */
 public class SamplePosCommand implements CommandExecutor {
     public boolean onCommand(CommandSender sender, Command command, String label, String[] split) {

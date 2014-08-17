@@ -1,5 +1,5 @@
 
-package com.dinnerbone.bukkit.sample;
+package com.styletron.bukkit.sample;
 
 import java.util.HashMap;
 import org.bukkit.entity.Player;
@@ -11,6 +11,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * Sample plugin for Bukkit
  *
  * @author Dinnerbone
+ * @author root@styletron
  */
 public class SamplePlugin extends JavaPlugin {
     private final SamplePlayerListener playerListener = new SamplePlayerListener(this);

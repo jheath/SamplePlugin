@@ -1,5 +1,5 @@
 
-package com.dinnerbone.bukkit.sample;
+package com.styletron.bukkit.sample;
 
 import org.bukkit.Location;
 import org.bukkit.event.EventHandler;
@@ -11,6 +11,7 @@ import org.bukkit.event.player.PlayerQuitEvent;
 /**
  * Handle events for all Player related events
  * @author Dinnerbone
+ * @author root@styletron
  */
 public class SamplePlayerListener implements Listener {
     private final SamplePlugin plugin;

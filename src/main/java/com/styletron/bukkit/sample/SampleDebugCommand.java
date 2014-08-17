@@ -1,4 +1,4 @@
-package com.dinnerbone.bukkit.sample;
+package com.styletron.bukkit.sample;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -8,6 +8,7 @@ import org.bukkit.entity.Player;
 /**
  * Handler for the /debug sample command.
  * @author SpaceManiac
+ * @author root@styletron
  */
 public class SampleDebugCommand implements CommandExecutor {
     private final SamplePlugin plugin;

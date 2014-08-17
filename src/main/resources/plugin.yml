@@ -1,5 +1,5 @@
 name: SamplePlugin
-main: com.dinnerbone.bukkit.sample.SamplePlugin
+main: com.styletron.bukkit.sample.SamplePlugin
 version: ${version}
 commands:
   pos:
